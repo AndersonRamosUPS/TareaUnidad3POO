@@ -1,0 +1,87 @@
+Inicio del Torneo
+Equipos ingresados:
+Equipo 1: A
+Equipo 2: B
+Equipo 3: C
+Equipo 4: D
+
+Etapa actual: Semifinales
+Enfrentamientos:
+Partido 1: C vs B
+Partido 2: A vs D
+
+Ganadores de los partidos:
+Partido 1: Ganador: C
+Partido 2: Ganador: D
+
+Etapa actual: Final
+Enfrentamientos:
+Partido 1: C vs D
+
+Ganadores de los partidos:
+Partido 1: Ganador: D
+
+¡El campeón del torneo es: D!
+
+Etapa Actual: Final
+
+Etapa Actual: Semifinales
+
+Etapa Actual: Ocatavos de Final
+Ganador: J
+Ganador: A
+Ganador: H
+Ganador: E
+Ganador: N
+Ganador: B
+Ganador: L
+Ganador: F
+
+¡El campeón del torneo es: J!
+
+Etapa Actual: Etapa Desconocida
+Ganador: F
+Ganador: L
+Ganador: A
+Ganador: H
+
+¡El campeón del torneo es: F!
+
+Etapa Actual: Semifinales
+Ganador: H
+Ganador: A
+
+¡El campeón del torneo es: H!
+
+Etapa Actual: Final
+Ganador: A
+
+¡El campeón del torneo es: A!
+
+Etapa Actual: Semifinales
+
+Etapa Actual: Semifinales
+Ganador: Colombia
+Ganador: Ecuador
+
+Etapa Actual: Final
+Ganador: Ecuador
+
+¡El campeón del torneo es: Ecuador!
+
+Etapa Actual: Ocatavos de Final
+
+Etapa Actual: Etapa Desconocida
+Ganador: E
+Ganador: D
+Ganador: A
+Ganador: G
+
+Etapa Actual: Semifinales
+Ganador: A
+Ganador: E
+
+Etapa Actual: Final
+Ganador: A
+
+¡El campeón del torneo es: A!
